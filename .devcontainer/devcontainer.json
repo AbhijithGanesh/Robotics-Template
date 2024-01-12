@@ -1,0 +1,11 @@
+{
+    "postAttachCommand": {
+    },
+    "build": { "dockerfile": "Dockerfile" },
+    "portsAttributes": {
+    },
+    "customizations": {
+      "codespaces": {
+      }
+    }
+}
